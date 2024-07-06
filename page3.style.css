@@ -1,0 +1,11 @@
+img{
+    height:500px;
+    width: 350px;
+    border-radius: 10%;
+    border: 10px;
+    margin: 50px;
+    padding: 10px;
+}
+#p3{
+background:linear-gradient(rgb(21, 104, 39),rgb(179, 176, 176),rgb(48, 201, 81));
+}

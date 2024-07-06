@@ -1,0 +1,11 @@
+img{
+    height:300px;
+    width: 203px;
+    border-radius: 10%;
+    border: 10px;
+    margin: 50px;
+    padding: 10px;
+}
+#h1{
+    background:linear-gradient(90deg,black,rgb(70, 158, 216))
+}
